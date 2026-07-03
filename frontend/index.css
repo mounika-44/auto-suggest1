@@ -14,3 +14,16 @@ h1{
 {
     color: blue;
 }
+#nav{
+    text-align: center;
+    background-color:cadetblue;
+    height: 25px;
+    padding: 5px;
+    margin-bottom: 5px;
+}
+#nav a{
+    margin: 0px 5px;
+    margin: y-axis x-axis;
+    text-decoration: none;
+    color: black;
+}
