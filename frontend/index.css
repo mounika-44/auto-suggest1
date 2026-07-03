@@ -7,3 +7,10 @@ h1{
     border-color: black;
     border-style: solid;
 }
+#home-intro:hover{
+    background-color: lightblue;
+}
+#p2
+{
+    color: blue;
+}
